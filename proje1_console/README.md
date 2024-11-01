@@ -1,2 +1,0 @@
-# proje1_console!
-
