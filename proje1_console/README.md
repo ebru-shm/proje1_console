@@ -1,1 +1,1 @@
-# proje1_console
+# proje1_console![Uploading Python-Symbol.png…]()
