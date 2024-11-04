@@ -1,7 +1,7 @@
 # proje1_console!
 
-## deneme
+## İŞLEMLER
 
 <img height ="100" src = "resimler/Ana Menü.PNG"/>
 
-
+![Ana Menu](https://github.com/ebru-shm/proje1_console/blob/main/resimler/Ana%20Men%C3%BC.PNG)
