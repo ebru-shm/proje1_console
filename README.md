@@ -8,10 +8,19 @@
 
 ![Ana Menu](https://github.com/ebru-shm/proje1_console/blob/main/resimler/Ana%20Men%C3%BC.PNG)
 
-## Hesaplamalar
+## 1- Hesaplamalar
 
 ![Hesaplamalar](https://github.com/ebru-shm/proje1_console/blob/main/resimler/Hesaplamalar.PNG)
 
+## 2- String İşlemleri
 
 
+## 3- Çizim
+## 4- Faktoriyel Bulma
+## 5- Liste İşlemleri
+## 6- Yaş Hesaplama
+## 7- Python Kütüphaneleri
+## 8- Alan Hesaplama
+## 9- Ürün Önerileri
+## 10- Kilo İndeksi
 
