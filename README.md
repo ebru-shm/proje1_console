@@ -42,5 +42,8 @@
 ![alan_hesapla](https://github.com/ebru-shm/proje1_console/blob/main/resimler/alan_hesapla.PNG)
 
 ## 9- Ürün Önerileri
+
+![urun_onerileri](https://github.com/ebru-shm/proje1_console/blob/main/resimler/urun_onerileri.PNG)
+
 ## 10- Kilo İndeksi
 
