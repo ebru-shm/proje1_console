@@ -33,9 +33,10 @@
 
 ![yas](https://github.com/ebru-shm/proje1_console/blob/main/resimler/yas.PNG)
 
-
-
 ## 7- Python Kütüphaneleri
+
+![python_kutuphane](https://github.com/ebru-shm/proje1_console/blob/main/resimler/python_kutuphane.PNG)
+
 ## 8- Alan Hesaplama
 ## 9- Ürün Önerileri
 ## 10- Kilo İndeksi
