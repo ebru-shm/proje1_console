@@ -16,8 +16,11 @@
 
 ![String](https://github.com/ebru-shm/proje1_console/blob/main/resimler/String.PNG)
 
-
 ## 3- Çizim
+
+![cizim](https://github.com/ebru-shm/proje1_console/blob/main/resimler/cizim.PNG)
+
+
 ## 4- Faktoriyel Bulma
 ## 5- Liste İşlemleri
 ## 6- Yaş Hesaplama
