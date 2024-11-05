@@ -14,6 +14,8 @@
 
 ## 2- String İşlemleri
 
+![String](https://github.com/ebru-shm/proje1_console/blob/main/resimler/String.PNG)
+
 
 ## 3- Çizim
 ## 4- Faktoriyel Bulma
