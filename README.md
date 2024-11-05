@@ -31,6 +31,8 @@
 
 ## 6- Yaş Hesaplama
 
+![yas](https://github.com/ebru-shm/proje1_console/blob/main/resimler/yas.PNG)
+
 
 
 ## 7- Python Kütüphaneleri
