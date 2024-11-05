@@ -47,3 +47,6 @@
 
 ## 10- Kilo İndeksi
 
+![kilo_indeksi](https://github.com/ebru-shm/proje1_console/blob/main/resimler/kilo_indeksi.PNG)
+
+
