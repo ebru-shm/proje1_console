@@ -22,7 +22,12 @@
 
 
 ## 4- Faktoriyel Bulma
+
+
 ## 5- Liste İşlemleri
+
+![liste](https://github.com/ebru-shm/proje1_console/blob/main/resimler/liste.PNG)
+
 ## 6- Yaş Hesaplama
 ## 7- Python Kütüphaneleri
 ## 8- Alan Hesaplama
